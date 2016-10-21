@@ -1,5 +1,5 @@
 # ios-one-transport-frameworks
-The oneM2M and oneTransport frameworks
+The oneM2M and oneTRANSPORT frameworks
 
 This repository contains two frameworks.
 
