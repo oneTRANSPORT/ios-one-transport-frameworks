@@ -1,0 +1,6 @@
+framework module oneTRANSPORT {
+  umbrella header "oneTRANSPORT.h"
+
+  export *
+  module * { export * }
+}
