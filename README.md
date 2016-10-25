@@ -7,4 +7,4 @@ This repository contains two frameworks.
 
 2. oneTRANSPORT - an Objective-C framework to access the oneTRANSPORT data
 
-Please read the documentation in the Documentation folder for general information and tips on getting started with oneM2M and oneTRANSPORT.
+Please read the documentation in the [ios oneTRANSPORT workspace project](https://github.com/oneTRANSPORT/ios-one-transport-workspace) for general information and tips on getting started with oneM2M and oneTRANSPORT.
